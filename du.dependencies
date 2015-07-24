@@ -5,9 +5,9 @@
         "branch": "lollipop-caf"
     },
     {
-        "repository": "kularny/android_kernel_samsung_smdk4412",
+        "repository": "kularny/AOSP-LP-Kernel",
         "target_path": "kernel/samsung/smdk4412"
-        "branch": "lollipop-caf"
+        "branch": "AOSP-LP-Kernel+"
     },
     {
         "repository": "kularny/android_hardware_samsung",
