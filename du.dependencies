@@ -1,21 +1,26 @@
 [
     {
+        "remote": "github",
         "repository": "kularny/android_device_samsung_galaxys2-common",
-        "target_path": "device/samsung/galaxys2-common"
-        "branch": "lollipop-caf"
+        "target_path": "device/samsung/galaxys2-common",
+        "revision": "lollipop-caf"
     },
     {
+        "remote": "github",
         "repository": "kularny/AOSP-LP-Kernel",
-        "target_path": "kernel/samsung/smdk4412"
-        "branch": "AOSP-LP-Kernel+"
+        "target_path": "kernel/samsung/smdk4412",
+        "revision": "AOSP-LP-Kernel+"
     },
     {
+        "remote": "github",
         "repository": "kularny/android_hardware_samsung",
-        "target_path": "hardware/samsung"
-        "branch": "lollipop-caf"
+        "target_path": "hardware/samsung",
+        "revision": "lollipop-caf"
     },
     {
-        "repository": "android_packages_apps_SamsungServiceMode",
-        "target_path": "packages/apps/SamsungServiceMode"
+        "remote": "github",
+        "repository": "kularny/android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode",
+        "revision": "lollipop-caf"
     }
 ]
