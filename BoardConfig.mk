@@ -38,7 +38,7 @@ TARGET_OTA_ASSERT_DEVICE := galaxys2,i9100,GT-I9100,GT-I9100M,GT-I9100P,GT-I9100
 # Use the non-open-source parts, if they're present
 -include vendor/samsung/i9100/BoardConfigVendor.mk
 
-#TWRP
+# TWRP
 DEVICE_RESOLUTION := 480x800
 HAVE_SELINUX := true
 TW_INCLUDE_JB_CRYPTO := true
