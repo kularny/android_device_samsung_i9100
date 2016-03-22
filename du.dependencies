@@ -1,0 +1,32 @@
+[
+    {
+        "remote": "github",
+        "repository": "kularny/android_device_samsung_galaxys2-common",
+        "target_path": "device/samsung/galaxys2-common",
+        "revision": "m-caf"
+    },
+    {
+        "remote": "github",
+        "repository": "kularny/GeniSys.Kernel",
+        "target_path": "kernel/samsung/smdk4412",
+        "revision": "smdk4210"
+    },
+    {
+        "remote": "github",
+        "repository": "kularny/android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "revision": "m-caf"
+    },
+    {
+        "remote": "github",
+        "repository": "kularny/android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode",
+        "revision": "m-caf"
+    },
+    {
+        "remote": "github",
+        "repository": "kularny/android_external_stlport",
+        "target_path": "external/stlport",
+        "revision": "m-caf"
+    }
+]
